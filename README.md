@@ -106,7 +106,7 @@ This course and its content are licensed under the Creative Commons Attribution-
 ---
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1356/format:webp/0*kxPYwfJmkXZ3iCWy.png" alt="Course Logo" width="100">
+  <img src="https://miro.medium.com/v2/resize:fit:1356/format:webp/0*kxPYwfJmkXZ3iCWy.png" alt="Course Logo" >
 </p>
 
 [![Made with ❤️ by Kunal Arya](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Kunal%20Name-Arya)](https://github.com/kunalarya873)
